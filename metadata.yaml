@@ -1,0 +1,31 @@
+_repo: The-Illustrated-London-Reading-Book_11921
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 11921/11921-h/img/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Glossaries, vocabularies, etc.'
+- !lcsh 'Recitations'
+- !lcc 'PE'
+- !lcsh 'Readers'
+- !lcsh 'English literature'
+- GITenberg
+title: The Illustrated London Reading Book
+url: http://www.gutenberg.org/ebooks/11921
