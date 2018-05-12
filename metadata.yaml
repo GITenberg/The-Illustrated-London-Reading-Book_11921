@@ -1,10 +1,8 @@
 _repo: The-Illustrated-London-Reading-Book_11921
-_version: 0.0.1
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 11921/11921-h/img/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 11921-h/img/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11921#The-Illustrated-London-Reading-Book
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
